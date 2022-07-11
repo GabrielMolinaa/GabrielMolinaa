@@ -3,10 +3,10 @@
 - 📚 Estudante de Engenharia da Computação pela UTFPR-Ap
 
 ##
-<div align="center">
+
   <a href="https://github.com/GabrielMolinaa">
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=GabrielMolinaa&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-</div>
+
   
 #### Tecnologias:
 <div style="display:flex"><br>
