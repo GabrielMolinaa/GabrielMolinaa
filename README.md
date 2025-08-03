@@ -1,6 +1,7 @@
 ### Olá!! Sou o Gabriel Molina 👋
 
-- 📚 Estudante de Engenharia da Computação pela UTFPR-Ap
+- 📚 Engenheiro de Computação
+- Software Developer @ WEG
 
 ##
 <div align="center">
